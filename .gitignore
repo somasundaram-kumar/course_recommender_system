@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore OS or editor-specific files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data or secret files (optional)
+*.pkl
