@@ -8,11 +8,11 @@ A content-based recommendation system built using **Python**, **Flask**, and **N
 
 ## Features
 
-- 🔍 Search or select any course
-- 🎓 Instantly receive 5–6 similar course recommendations
-- 🔗 Each result links directly to the course URL
-- 💻 Built with Flask (backend) and TailwindCSS (frontend)
-- ⚡ Fast and lightweight (no online API calls needed)
+-  Search or select any course
+-  Instantly receive 5–6 similar course recommendations
+-  Each result links directly to the course URL
+-  Built with Flask (backend) and TailwindCSS (frontend)
+-  Fast and lightweight (no online API calls needed)
 
 ---
 
